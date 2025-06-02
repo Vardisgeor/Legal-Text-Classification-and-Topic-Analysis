@@ -1,6 +1,3 @@
-Certainly! Here is a clear and comprehensive README draft for your project, summarizing both Part A and Part B with emphasis on the goals, methods, and outcomes:
-
----
 
 # Legal Document Analysis and Classification Project
 
