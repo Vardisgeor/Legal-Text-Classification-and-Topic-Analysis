@@ -85,6 +85,3 @@ Using the GreekLegalSum dataset (no crawling required here), which contains deci
 * Topic clusters and meaningful labels generated for Supreme Court decisions
 * Visual and analytical reports documenting data characteristics, model performance, and cluster analysis
 
----
-
-Feel free to ask if you want me to help write example code snippets, document specific modules, or prepare reports!
